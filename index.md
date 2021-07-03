@@ -49,10 +49,9 @@ sections:
       - type: feature
         title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
-        content: >-
+        content: >
           Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+          products look great, sound great, and sell more on your Shopify store.
         actions:
           - type: action
             label: Learn More
