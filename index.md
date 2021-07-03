@@ -67,12 +67,15 @@ sections:
     align: center
     background_color: none
   - type: form_section
-    content: >-
+    content: >
       ## Let's talk
 
 
       If you would like more information about my services and pricing, please
       contact me using the form below.
+
+
+      We can get started with your full custom website right away!
     content_align: left
     form_position: right
     form_width: fifty
