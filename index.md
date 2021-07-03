@@ -119,7 +119,7 @@ sections:
     background_image_repeat: repeat
 seo:
   type: stackbit_page_meta
-  title: 'Website '
+  title: Website design Long Island | Bill Llach
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
