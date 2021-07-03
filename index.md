@@ -35,7 +35,7 @@ sections:
           development, **only for $200**. No job is too big or small!
         actions:
           - type: action
-            label: See Writing Samples
+            label: Schedule a free consultation call
             url: /faq
             style: primary
             has_icon: true
