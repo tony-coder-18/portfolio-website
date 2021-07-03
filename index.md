@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Alyvia. I help local business succeed online.'
+    title: 'Hi, I’m Bill. I help local business succeed online.'
     subtitle: >-
       I will handle your website design and production for you, at an affordable
       monthly fee.
