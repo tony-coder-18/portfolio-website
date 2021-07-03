@@ -32,7 +32,7 @@ sections:
         subtitle: You only pay when the website is done
         content: >
           I will handle content writing for your website, design and
-          development, only for $200. No job is too big or small!
+          development, **only for $200**. No job is too big or small!
         actions:
           - type: action
             label: See Writing Samples
