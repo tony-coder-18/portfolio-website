@@ -23,46 +23,6 @@ sections:
     background_image_opacity: 8
     background_image_size: contain
     background_image_repeat: repeat
-  - type: grid_section
-    title: Trusted by Companies Big and Small
-    subtitle: Who I work with
-    grid_items:
-      - type: grid_item
-        image: images/logo-1.svg
-        image_alt: Logo 1
-        image_align: center
-      - type: grid_item
-        image: images/logo-2.svg
-        image_alt: Logo 2
-        image_align: center
-      - type: grid_item
-        image: images/logo-3.svg
-        image_alt: Logo 3
-        image_align: center
-      - type: grid_item
-        image: images/logo-4.svg
-        image_alt: Logo 4
-        image_align: center
-      - type: grid_item
-        image: images/logo-5.svg
-        image_alt: Logo 5
-        image_align: center
-      - type: grid_item
-        image: images/logo-6.svg
-        image_alt: Logo 6
-        image_align: center
-      - type: grid_item
-        image: images/logo-7.svg
-        image_alt: Logo 7
-        image_align: center
-      - type: grid_item
-        image: images/logo-8.svg
-        image_alt: Logo 8
-        image_align: center
-    grid_cols: four
-    grid_gap_vert: medium
-    grid_gap_horiz: medium
-    align: center
   - type: features_section
     title: My services
     subtitle: What I do
