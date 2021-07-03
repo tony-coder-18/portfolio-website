@@ -116,7 +116,6 @@ sections:
     grid_gap_horiz: medium
     align: center
     background_color: secondary
-    background_image: images/watercolor.png
     background_image_opacity: 12
     background_image_size: contain
     background_image_repeat: repeat
