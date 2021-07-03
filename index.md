@@ -28,7 +28,7 @@ sections:
     subtitle: What I do
     features:
       - type: feature
-        title: Content Creation
+        title: Website Design
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
