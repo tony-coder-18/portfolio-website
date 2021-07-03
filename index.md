@@ -29,7 +29,7 @@ sections:
     features:
       - type: feature
         title: Website Design
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: You only pay when the website is done
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
