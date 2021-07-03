@@ -24,7 +24,7 @@ sections:
     background_image_size: contain
     background_image_repeat: repeat
   - type: features_section
-    title: My services
+    title: My service
     subtitle: What I do
     features:
       - type: feature
