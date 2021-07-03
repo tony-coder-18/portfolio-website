@@ -94,16 +94,6 @@
             },
             {
                 "type": "action",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "link",
