@@ -39,12 +39,6 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
