@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Alyvia. I help local business succeed online.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I will handle your website design and production for you, at an affordable
+      monthly fee.
     actions:
       - type: action
         label: Contact Me
