@@ -54,7 +54,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /about
+            url: /cin
             style: secondary
             has_icon: true
             icon: arrow-right
