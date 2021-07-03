@@ -13,17 +13,16 @@ sections:
         title: Flat-rate
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### $200
 
-          per month, billed yearly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+
+          *   Full website build for your business
+          *   CMS so you can change things later on
+          *   Teaching on how to use the CMS propperly
         content_align: left
         actions:
           - type: action
