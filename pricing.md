@@ -27,7 +27,7 @@ sections:
         content_align: left
         actions:
           - type: action
-            label: Start with Personal
+            label: Start with Flat-rate
             url: /features
             style: primary
         actions_align: left
