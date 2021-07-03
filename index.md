@@ -122,7 +122,7 @@ seo:
   title: Website design Long Island | Bill Llach
   description: >-
     Website design and development focusing in small business owners in Long
-    Island.
+    Island ny.
   extra:
     - name: 'og:type'
       value: website
