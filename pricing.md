@@ -27,7 +27,7 @@ sections:
         actions:
           - type: action
             label: Start with Flat-rate
-            url: /features
+            url: /contact
             style: primary
         actions_align: left
         actions_width: full-width
