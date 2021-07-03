@@ -120,7 +120,9 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Website design Long Island | Bill Llach
-  description: The preview of the Personal theme
+  description: >-
+    Website design and development focusing in small business owners in Long
+    Island.
   extra:
     - name: 'og:type'
       value: website
