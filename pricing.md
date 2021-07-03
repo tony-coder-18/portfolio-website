@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pick Your Plan
-    subtitle: Optional hero section subtitle
+    subtitle: 'Remember, you only pay when you see the full website, and love it'
     align: center
     padding_top: large
     padding_bottom: small
