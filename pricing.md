@@ -36,18 +36,15 @@ sections:
         title: Suscription
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### $100
 
-          per month, billed yearly
+          per month.
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   I will mantain your website for as long as you wish
+          *   Update content, images, videos.
         content_align: left
         actions:
           - type: action
