@@ -30,10 +30,9 @@ sections:
       - type: feature
         title: Website Design
         subtitle: You only pay when the website is done
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          I will handle content writing for your website, design and
+          development, only for $200. No job is too big or small!
         actions:
           - type: action
             label: See Writing Samples
