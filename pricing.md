@@ -48,7 +48,7 @@ sections:
         content_align: left
         actions:
           - type: action
-            label: Start with Premium
+            label: Start with Suscription
             url: /features
             style: primary
         actions_align: left
